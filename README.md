@@ -5,7 +5,7 @@
 Add this as a package to your project by adding the below as an entry to the dependencies in the `/Packages/manifest.json` file:
 
 ```json
-"nrjwolf.games.iosnativealerts": "git+https://github.com/Nrjwolf/unity-ios-easy-native-alert"
+"nrjwolf.games.iosnativealerts": "git+https://github.com/aestheticianlabs/unity-ios-easy-native-alert"
 ```
 For more information on adding git repositories as a package see the [Git support on Package Manager](https://docs.unity3d.com/Manual/upm-git.html) in the Unity Documentation.
 
